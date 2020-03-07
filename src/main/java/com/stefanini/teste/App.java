@@ -13,7 +13,7 @@ import com.stefanini.servico.EnderecoServico;
 import com.stefanini.servico.PessoaServico;
 
 public class App {
-//kdsfsdfhasdhfusdh
+
 	@Inject
 	private PessoaServico pessoaServico;
 	
