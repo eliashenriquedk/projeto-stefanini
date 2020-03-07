@@ -14,6 +14,8 @@ import com.stefanini.servico.PessoaServico;
 
 public class App {
 
+	// teste
+	
 	@Inject
 	private PessoaServico pessoaServico;
 	
